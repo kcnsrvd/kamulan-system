@@ -1,0 +1,6 @@
+{
+    "name": "hp/kamulan-system",
+    "require": {
+        "phpmailer/phpmailer": "^7.0"
+    }
+}
